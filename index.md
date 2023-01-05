@@ -1,17 +1,30 @@
 ## Portfolio
 
+[Resume](/pdf/Isaac-Macpherson-Jaynes-2023-Full.pdf)
+
 ---
 
-### Category Name 1 
+### Projects I've worked on
 
-[LewisAnnotate](/sample_page)
+[LewisAnnotate](/LewisAnnotate)
+<img src="images/loaded_s3.png?raw=true"/>
+
+---
+
+[Rogue](/Rogue)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+[TisTheSeason](/TisTheSeason)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+<!-- [PDF](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+<!-- ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -25,7 +38,7 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+--- -->
 
 
 

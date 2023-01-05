@@ -3,9 +3,9 @@
 **Project description:** LewisAnnotate is a graphical image annotation tool based off the opensource Labelme by Kentaro Wada, inspired by <http://labelme.csail.mit.edu>.  
 It is written in Python and uses Qt for its graphical interface. Developed for Merck KGaA to aid in the creation of ground-truth datasets for the machine learning system used to identify chemical structures in images. Designed to communicates with Amazon AWS S3 or local filesystems to create and edit annotated datasets, which can be used to validate and correct any errors in the machine learning output.
 
-<img src="images/editing.png?raw=true"/>
+<img src="images/lewis_annotate_1.png?raw=true"/>
 
-<img src="images/loaded_s3.png?raw=true"/>
+<img src="images/lewis_annotate_2.png?raw=true"/>
 
 
 <!-- ### 1. Suggest hypotheses about the causes of observed phenomena

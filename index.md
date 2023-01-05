@@ -12,12 +12,12 @@ View my resume [here](/pdf/Isaac-Macpherson-Jaynes-2023-Full.pdf)!
 ---
 
 [Rogue](/Rogue)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rogue_1.png?raw=true"/>
 
 ---
 
 [TisTheSeason](/TisTheSeason)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tis_the_season_prize.jpg?raw=true"/>
 
 ---
 

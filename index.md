@@ -19,12 +19,11 @@ Read about me [here](/AboutMe)!
 ---
 
 [TisTheSeason](/TisTheSeason)
-<img src="images/tis_the_season_prize.jpg?raw=true"/>
+<img src="images/tis_the_season_prize.jpg"/>
 
 ---
 
 [Mersiv Room Booking App](/MersivRoomBooker)<br>
-
 <img src="images/mersiv_demo.gif?raw=true"/>
 
 ---

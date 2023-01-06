@@ -24,7 +24,7 @@ Read about me [here](/AboutMe)!
 ---
 
 [Mersiv Room Booking App](/MersivRoomBooker)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mersiv_1.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

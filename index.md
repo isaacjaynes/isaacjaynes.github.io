@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio (work in progress)
 
 View my resume [here](/pdf/Isaac-Macpherson-Jaynes-2023-Full.pdf)!
 
@@ -23,7 +23,8 @@ Read about me [here](/AboutMe)!
 
 ---
 
-[Mersiv Room Booking App](/MersivRoomBooker)
+[Mersiv Room Booking App](/MersivRoomBooker)<br>
+
 <img src="images/mersiv_demo.gif?raw=true"/>
 
 ---

@@ -2,12 +2,14 @@
 
 View my resume [here](/pdf/Isaac-Macpherson-Jaynes-2023-Full.pdf)!
 
+Read about me [here](/AboutMe)!
+
 ---
 
 ### Projects I've worked on
 
 [LewisAnnotate](/LewisAnnotate)
-<img src="images/loaded_s3.png?raw=true"/>
+<img src="images/lewis_annotate_1.png?raw=true"/>
 
 ---
 
@@ -21,7 +23,7 @@ View my resume [here](/pdf/Isaac-Macpherson-Jaynes-2023-Full.pdf)!
 
 ---
 
-[Mersive Room Booking App](/MersiveRoomBooker)
+[Mersiv Room Booking App](/MersivRoomBooker)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

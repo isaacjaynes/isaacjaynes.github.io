@@ -1,4 +1,4 @@
-I was born in Boise, Idaho, USA on April 29th 1999. I have Canadian citizenship through my father, who is half-canadian, as his mother is Canadian.
+I was born in Boise, Idaho, USA on April 29th 1999. I have Canadian citizenship through my father.
 
 I moved with my dad, step mother, and sister to Marina, California, USA when I was 10 years old.
 

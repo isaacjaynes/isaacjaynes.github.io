@@ -6,6 +6,6 @@ Feeling a pull towards my roots, I returned to Boise to study Computer Science a
 
 Throughout my journey, I've discovered a love for hands-on work, which has led me to explore electronics, mechanics, and computers. My hobbies reflect my adventurous spirit, including mountain biking, rock climbing, weightlifting, and seeking new adventures. But I also appreciate the simple pleasures of life, like relaxing at home.
 
-My eclectic work experience includes positions at an industrial production line, as an auto mechanic, the European Space Agency, a chemical research institution (Merck), mobile app development, and ground-up system design for a tech startup. Currently, I'm working for an ad campaign scheduling company, bringing my diverse skill set to new challenges.
+My eclectic work experience includes positions at an industrial production line (Frenger), as an auto mechanic (Autohaus Brass), the European Space Agency (EUMETSAT), a chemical research institution (Merck), mobile app development (Mersive), and ground-up system design for a tech startup (Tis The Season). Currently, I'm working for an ad campaign scheduling company (AllMediaDesk), bringing my diverse skill set to new challenges.
 
 My identity is a blend of experiences and cultures from the US, Germany, and Canada. When asked where I'm from, I cherish the unique combination that makes me who I am today.

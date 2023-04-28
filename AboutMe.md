@@ -1,10 +1,11 @@
-I was born in Boise, Idaho, USA on April 29th 1999. I have Canadian citizenship through my father.
+Hello! I'm Isaac Macpherson Jaynes, a math enthusiast, language lover, and a global citizen with a diverse background. Born on April 29th, 1999, in Boise, Idaho, my life has been a mosaic of experiences, cultures, and passions.
 
-I moved with my dad, step mother, and sister to Marina, California, USA when I was 10 years old.
+At 10 years old, my family and I moved to Marina, California, broadening my horizons and offering new opportunities. Four years later, we ventured to Heubach, Hesse, Germany, where I immersed myself in the language and culture, mastering German through an accelerated program at the Goetheschule in Dieburg. Academically, I achieved one of the top grades of my class on my Abitur at the Landrat Gruber Schule in Dieburg.
 
-I moved with them again to Heubach, Hesse, Germany when I was 14. I learned German in an accelerated program at the Goetheschule in Dieburg.
-I graduated with a 1.7 average Abitur at the Landrat Gruber Schule in Dieburg. 
+Feeling a pull towards my roots, I returned to Boise to study Computer Science at Boise State University. After a year, I realized I needed a more challenging environment, and that led me to the University of British Columbia in Vancouver, Canada. In April 2023, I will graduate with a Bachelor of Science in Mathematics.
 
-After recieving my Abitur, I moved back to Boise to live with my mother and studied Computer Science as Boise State University. After one year there, I decided that I needed mire room to grow, since BSU was too easy, so I applied and got into the University of British Columbia, in Vancouver, Canada. I will graduate with a Bachelour of Science in Mathematics in April 2023.
+Throughout my journey, I've discovered a love for hands-on work, which has led me to explore electronics, mechanics, and computers. My hobbies reflect my adventurous spirit, including mountain biking, rock climbing, weightlifting, and seeking new adventures. But I also appreciate the simple pleasures of life, like relaxing at home.
 
-Whenever anyone asks me where I am from, I never know exactly what to say, since I feel I am from many different places, be it the US, Germany, or Canada.
+My eclectic work experience includes positions at an industrial production line, as an auto mechanic, the European Space Agency, a chemical research institution (Merck), mobile app development, and ground-up system design for a tech startup. Currently, I'm working for an ad campaign scheduling company, bringing my diverse skill set to new challenges.
+
+My identity is a blend of experiences and cultures from the US, Germany, and Canada. When asked where I'm from, I cherish the unique combination that makes me who I am today.

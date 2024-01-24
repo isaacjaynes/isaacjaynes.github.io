@@ -1,6 +1,6 @@
 ## Portfolio (work in progress)
 
-View my resume [here](/pdf/Isaac-Jaynes-Resume.pdf)!
+View my resume [here](/pdf/Isaac-Jaynes-Resume-2024.pdf)!
 
 Read about me [here](/AboutMe)!
 
